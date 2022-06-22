@@ -1,0 +1,14 @@
+{
+	"blocs": [
+		{
+			"visibility": true,
+			"ref": "hero1",
+			"title": "titre"
+		},
+		{
+			"visibility": true,
+			"ref": "h2",
+			"title": "b"
+		}
+	]
+}
