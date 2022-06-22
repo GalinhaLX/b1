@@ -2,13 +2,13 @@
 	"blocs": [
 		{
 			"visibility": true,
-			"ref": "hero1",
-			"title": "titre"
+			"ref": "h2",
+			"title": "b"
 		},
 		{
 			"visibility": true,
-			"ref": "h2",
-			"title": "b"
+			"ref": "hero1",
+			"title": "titre"
 		}
 	]
 }
