@@ -1,0 +1,19 @@
+{
+	"catalog": [
+		{
+			"visibility": true,
+			"ref": "hero1",
+			"title": "titre1"
+		},
+		{
+			"visibility": true,
+			"ref": "test1",
+			"title": "titre test 1"
+		},
+		{
+			"visibility": true,
+			"ref": "hero2",
+			"title": "titre2"
+		}
+	]
+}
